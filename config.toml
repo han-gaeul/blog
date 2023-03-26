@@ -1,6 +1,6 @@
 baseURL = 'https://han-gaeul.github.io/'
 languageCode = 'ko-kr'
-title = 'My New Hugo Site'
+title = 'hangaeul blog'
 theme = 'anatole'
 
 disqusShortname = "XXXXXXXXXXXXXXX"
