@@ -6,4 +6,4 @@ tags : ['hugo', 'blog', 'theme', 'test', 'python']
 cover : "/images/infra/hello-programmer-thumbnail.png"
 ---
 
-글 내용 적음
+글 내용 수정
